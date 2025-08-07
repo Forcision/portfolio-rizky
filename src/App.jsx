@@ -18,7 +18,7 @@ function App() {
           Sebagai alumni SMK Telkom Malang, saya memiliki dasar yang kuat dalam keterampilan teknis dan organisasi, dengan pengalaman dari partisipasi aktif di berbagai organisasi dan magang 6 bulan, yang kini saya lanjutkan dengan studi di bidang Statistik di Universitas Airlangga, aktif di BEM Fakultas, mengikuti berbagai kompetisi, serta berkomitmen untuk memberikan dampak positif melalui ilmu dan pengalaman saya.
         </p>
         <div className="flex items-center sm:gap-4 gap-2">
-         <a href="/public/assets/Fernanda-Rizky_CV.pdf" download className="bg-blue-700 p-4 rounded-2xl hover:bg-blue-600">
+         <a href="/assets/Fernanda-Rizky_CV.pdf" download className="bg-blue-700 p-4 rounded-2xl hover:bg-blue-600">
   Download CV <i className="ri-download-line ri-lg"></i>
           </a>
           <a href="#proyek" className="bg-zinc-700 p-4 rounded-2xl hover:bg-zinc-600">
