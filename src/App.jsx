@@ -13,7 +13,7 @@ function App() {
           <img src={DataImage.HeroImage} alt="Hero Image" className="w-10 rounded-md"loading="lazy" />
           <q>Tetap optimis tapi berhati-hati, Pesimis namun tetap berharap.😊</q>
         </div>
-        <h1 className="text-5xl/tight font-bold mb-6 text-blue-500">Hai, Saya, Fernanda Rizky</h1>
+        <h1 className="text-5xl/tight font-bold mb-6 text-blue-500">Hai, Saya Fernanda Rizky</h1>
         <p className="text-base/loose mb-6 opacity-50 text-justify">
           Sebagai alumni SMK Telkom Malang, saya memiliki dasar yang kuat dalam keterampilan teknis dan organisasi, dengan pengalaman dari partisipasi aktif di berbagai organisasi dan magang 6 bulan, yang kini saya lanjutkan dengan studi di bidang Statistik di Universitas Airlangga, aktif di BEM Fakultas, mengikuti berbagai kompetisi, serta berkomitmen untuk memberikan dampak positif melalui ilmu dan pengalaman saya.
         </p>
